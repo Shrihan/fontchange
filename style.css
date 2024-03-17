@@ -1,0 +1,29 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px gray;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0%;
+    width: 100%;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+}
+body{
+background-image: url("https://media.istockphoto.com/id/1358492677/vector/group-of-small-black-letters-random-scattered-forming-seamless-pattern.jpg?s=612x612&w=0&k=20&c=xrUR4fHV5XwTcPt3JSs3FINWuUrbx42fKaZtLn5TWcc=");
+
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+}
